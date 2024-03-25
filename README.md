@@ -11,14 +11,6 @@ budak IT
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-
-<p>
-  <p>
-    <img alt=" my stats " align= "left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=mrizkykusuma&theme=onedark"/>
-    <img alt=" my stats " align= "left" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mrizkykusuma&layout=compact)">
-  </a>
-</p>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
