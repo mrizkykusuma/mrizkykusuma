@@ -3,7 +3,7 @@ budak IT
 <p>
     Perkenalkan nama saya Mochammad Rizky Kusuma. </br>
     Saya seorang Mahasiswa di Universitas Islam Balitar. </br>
-    Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun <a href="https://www.instagram.com/rizkykusuma____/">instagram ku ya!</a>  </br>
+    Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun <a href="https://www.instagram.com/ndoksskuy.id">instagram ku ya!</a>  </br>
     - :mailbox: Cara menghubungi saya: <a href="mailto:m.riskykusuma00@gmail.com">Email saya!</a>  </br>
     - :video_game: Point Blank. </br>
 </p> 
